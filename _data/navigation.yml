@@ -9,14 +9,14 @@ main:
   # - title: "Teaching"
   #   url: /teaching/    
     
- # - title: "Portfolio"
- #   url: /portfolio/
+  - title: "Portfolio"
+    url: /portfolio/
         
- # - title: "Blog Posts"
-#   # url: /year-archive/
+  - title: "News"
+    url: /publications/
     
-  - title: "Education"
-    url: /cv/
+#  - title: "Education"
+#    url: /cv/
     
-   - title: "Research"
-     url: /markdown/
+#   - title: "Research"
+ #    url: /markdown/
