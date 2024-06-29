@@ -15,8 +15,6 @@ Education
 ====
 Dec 2022 – Present: B.Sc., Dept. of Computing Fundamental, FPT University, Ho Chi Minh City, Vietnam
 
-Current GPA: 8.5
-
 Research Experience
 ====
 Aug 2023 – Present: Student, AiTA Lab, FPT University of Vietnam
