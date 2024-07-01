@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hallo! "
+title: "Hello! ✍️"
 author_profile: true
 redirect_from: 
   - /about/
@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-📚 I am currently a student at FPT University, actively engaged in research at the AiTA Lab. 🧪 My research supervisor is Dr.Dang Ngoc Minh Duc, my research primarily focuses on Artificial Intelligence (AI) 🤖, with specific interests in Medical Image Processing 🏥, and Deep Learning. 💡 My work involves exploring cutting-edge technologies to advance the capabilities and applications of AI in healthcare 🚑 and biological data analysis 🔬.
+📖 I am currently a student at FPT University, actively engaged in research at the AiTA Lab. 🧪 My research supervisor is Dr.Dang Ngoc Minh Duc, my research primarily focuses on Artificial Intelligence (AI) 🤖, with specific interests in Medical Image Processing 💊, and Deep Learning. 💡 My work involves exploring cutting-edge technologies to advance the capabilities and applications of AI in healthcare 🚑 and biological data analysis 🔬.
 
 Education
 ====
@@ -26,7 +26,7 @@ Interests
 ====
 - 📚 Read book 
 - 🎹 Piano 
-- 🌐 Learn languages 🇬🇧 🇩🇪
+- 📜 Learn languages 
   
-“The beautiful thing about learning is that no one can take it away from you.”
+“The beautiful 🎇 thing about learning is that no one can take it away from you.”
 ===
