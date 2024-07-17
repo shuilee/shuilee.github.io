@@ -4,7 +4,6 @@ collection: teaching
 type: "Supervisor"
 permalink: /teaching/dnmduc
 venue: "FPT University, Department of Computing Fundamental"
-date: False
 location: "HCM City, Vietnam"
 ---
 
