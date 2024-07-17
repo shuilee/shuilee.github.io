@@ -1,4 +1,7 @@
-
+---
+collection: teaching
+permalink: /teaching/dnmduc
+---
 <h3>
 <a href="https://dnmduc.github.io/">
 Dr. Duc Ngoc Minh Dang
