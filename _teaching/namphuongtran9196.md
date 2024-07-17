@@ -2,8 +2,9 @@
 title: "Mr. Nam Phuong Tran"
 collection: teaching
 type: "Coauthor"
+venue: "Kyung Hee University"
 permalink: /teaching/namphuongtran9196
-date: 2024-01-01
+date: 2023-01-01
 ---
 
 Dept. of Computer Science and Engineering, Kyung Hee University
