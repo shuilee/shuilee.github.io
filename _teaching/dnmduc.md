@@ -1,11 +1,16 @@
+
 ---
-title: "Dr. Dang Ngoc Minh Duc"
+title: "Teaching experience 1"
 collection: teaching
+type: "Supervisor"
 permalink: /teaching/dnmduc
+venue: "FPT University, Department of Computing Fundamental"
+date: 
+location: "HCM City, Vietnam"
 ---
 
- This is a description.
 
+ 
 <h3>
 <a href="https://dnmduc.github.io/">
 Dr. Duc Ngoc Minh Dang
