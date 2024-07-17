@@ -1,6 +1,5 @@
-
 ---
-title: "Teaching experience 1"
+title: "Dr.Duc Ngoc Minh Dang"
 collection: teaching
 type: "Supervisor"
 permalink: /teaching/dnmduc
