@@ -4,7 +4,7 @@ collection: teaching
 type: "Supervisor"
 permalink: /teaching/dnmduc
 venue: "FPT University"
-date: 2022-01-01
+date: 2023-01-01
 ---
 
 Department of Computing Fundamental, FPT University
