@@ -1,4 +1,5 @@
 ---
+title: "Dr.Dang Ngoc Minh Duc"
 collection: teaching
 permalink: /teaching/dnmduc
 ---
