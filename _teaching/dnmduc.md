@@ -1,7 +1,5 @@
 ---
-title: "Dr.Dang Ngoc Minh Duc"
-collection: teaching
-permalink: /teaching/dnmduc
+permalink: /teaching/
 ---
 <h3>
 <a href="https://dnmduc.github.io/">
