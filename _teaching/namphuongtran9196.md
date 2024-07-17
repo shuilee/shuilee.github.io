@@ -1,3 +1,15 @@
+---
+title: "Mr. Nam Phuong Tran"
+collection: teaching
+type: "Coauthor"
+permalink: /teaching/namphuongtran9196
+venue: "Kyung Hee University"
+date: 2024-01-01
+location: "HCM City, Vietnam"
+---
+
+Dept. of Computer Science and Engineering, Kyung Hee University
+
 <h3>
 <a href="https://namphuongtran9196.github.io/">
 Mr. Nam Phuong Tran
