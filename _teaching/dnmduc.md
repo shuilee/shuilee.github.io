@@ -4,7 +4,7 @@ collection: teaching
 permalink: /teaching/dnmduc
 ---
 
- 
+ This is a description.
 
 <h3>
 <a href="https://dnmduc.github.io/">
