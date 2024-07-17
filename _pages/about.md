@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-📖 I am currently a student at FPT University, actively engaged in research at the AiTA Lab. 🧪 My research supervisor is [Dr. Dang Ngoc Minh Duc](https://dnmduc.github.io/), my research primarily focuses on Artificial Intelligence (AI) 🤖, with specific interests in Medical Image Processing 💊, and Deep Learning. 💡 My work involves exploring cutting-edge technologies to advance the capabilities and applications of AI in healthcare 🚑 and biological data analysis 🔬.
+📖 I am currently a student at FPT University, actively engaged in research at the AiTA Lab. 🧪 My research supervisor is [Dr. Dang Ngoc Minh Duc](https://dnmduc.github.io/), my research primarily focuses on Artificial Intelligence (AI) 🤖, with specific interests in Medical Image Processing 💊, and Deep Learning, Federated Learning. 💡 My work involves exploring cutting-edge technologies to advance the capabilities and applications of AI in healthcare 🚑 and biological data analysis 🔬.
 
 Education
 ====
