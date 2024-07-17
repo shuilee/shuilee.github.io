@@ -12,7 +12,7 @@ redirect_from:
 
 Education
 ====
-Dec 2022 – Present: B.Sc., Dept. of Computer Science, FPT University, Ho Chi Minh City, Vietnam
+Dec 2022 – Present: B.Sc., Dept. of Computing Fundamental, FPT University, Ho Chi Minh City, Vietnam
 
 Research Experience
 ====
