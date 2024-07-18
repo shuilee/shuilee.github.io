@@ -1,7 +1,7 @@
 ---
 title: "Mr.Nhat Truong Pham"
 collection: teaching
-type: "Co-author"
+type: "Advisor"
 permalink: /teaching/phamnhattruong
 venue: "Sungkyunkwan University"
 date: 2023-01-01
