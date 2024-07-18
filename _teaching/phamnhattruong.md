@@ -3,12 +3,11 @@ title: "Mr.Nhat Truong Pham"
 collection: teaching
 type: "Advisor and Mentor"
 permalink: /teaching/phamnhattruong
-venue: "Sungkyunkwan University"
+venue: "SKKU"
 date: 2023-01-01
 ---
 
-Department of Integrative Biotechnology, Sungkyunkwan University
-
+<a href='https://skb.skku.edu/eng_gene/index.do'>Sungkyunkwan University, Suwon Campus, Republic of Korea</a>
 
 <h3>
 <a href="https://nhattruongpham.github.io/">
