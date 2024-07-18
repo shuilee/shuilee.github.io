@@ -7,7 +7,7 @@ permalink: /teaching/namphuongtran9196
 date: 2023-01-01
 ---
 
-Dept. of Computer Science and Engineering, Kyung Hee University
+<a href='https://www.khu.ac.kr/eng/user/main/view.do'>Kyung Hee University, Suwon Campus, Republic of Korea</a> || <a href='https://uni.fpt.edu.vn/en-US/home'>FPTU University, Ho Chi Minh Campus, Vietnam</a>
 
 <h3>
 <a href="https://tpnam0901.github.io/">
