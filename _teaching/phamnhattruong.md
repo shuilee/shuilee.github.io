@@ -1,13 +1,13 @@
 ---
 title: "Mr.Nhat Truong Pham"
 collection: teaching
-type: "Advisor"
+type: "Advisor and Mentor"
 permalink: /teaching/phamnhattruong
 venue: "Sungkyunkwan University"
 date: 2023-01-01
 ---
 
-Department of Integrative Biotechnology
+Department of Integrative Biotechnology, Sungkyunkwan University
 
 
 <h3>
