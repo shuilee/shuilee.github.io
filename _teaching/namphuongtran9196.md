@@ -1,7 +1,7 @@
 ---
 title: "Mr. Nam Phuong Tran"
 collection: teaching
-type: "Mentor"
+type: "Advisor and Mentor"
 venue: "Kyung Hee University"
 permalink: /teaching/namphuongtran9196
 date: 2023-01-01
