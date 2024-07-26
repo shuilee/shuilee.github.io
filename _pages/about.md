@@ -28,5 +28,5 @@ Interests
 - 🎹 Piano 
 - 📜 Learn languages 
   
-“The beautiful 🎇 thing about learning is that no one can take it away from you.”
-===
+“You don't have to wait for summer to go to the beach, and singing isn't an exclusive privilege for singers. What I mean is that the things you want to do don't need to be bound by time or depend on natural talent. You might see your flaws and notice things you're not doing well, but it's even more important to recognize your strengths and capabilities!”
+=
