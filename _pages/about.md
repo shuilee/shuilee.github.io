@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-📖 I am currently a student at FPT University, actively engaged in research at the AiTA Lab. 🧪 Research supervisor is [Dr. Dang Ngoc Minh Duc](https://dnmduc.github.io/), my research primarily focuses on Artificial Intelligence (AI) 🤖, with specific interests in Medical Image Processing 💊, and Deep Learning, Federated Learning. 💡The work involves exploring cutting-edge technologies to advance the capabilities and applications of AI in healthcare 🚑 and biological data analysis 🔬.
+📖 I am currently a student at FPT University, actively engaged in research at the AiTA Lab. 🧪 Research supervisor is [Dr. Dang Ngoc Minh Duc](https://dnmduc.github.io/), my research primarily focuses on Artificial Intelligence (AI) 🤖, with specific interests in Medical Image Processing, and Deep Learning, Federated Learning. 💡The work involves exploring cutting-edge technologies to advance the capabilities and applications of AI in healthcare and biological data analysis 🔬.
 
 Education
 ====
@@ -24,9 +24,8 @@ Deep Learning, Computer Vision
 
 Interests
 ====
-- 📚 Read books
-- 🎹 Piano 
-- 📜 Learn languages 
+In my free time I usually play the piano  🎹 and study languages 📜, read books 📚 .
+
   
 **"You don't have to wait for summer to go to the beach, and singing isn't an exclusive privilege for singers. What I mean is that the things you want to do don't need to be bound by time or depend on natural talent. You might see your flaws and notice things you're not doing well, but it's even more important to recognize your strengths and capabilities!"**
 
